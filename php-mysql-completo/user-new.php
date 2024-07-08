@@ -45,8 +45,7 @@
                     } else {
                         echo msg_erro("Senhas não conferem! Repita o procedimento.");
                     }
-                }
-                
+                }                
             }
             echo voltar();
         ?>
